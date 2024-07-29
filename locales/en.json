@@ -1,0 +1,10 @@
+{
+    "targetlabel": "Hack Mainframe",
+    "menutitle": "ATM Runs",
+    "menudesctitle": "Get a job",
+    "atmhack": "Hack ATM",
+    "menudesc": "Be careful this is a dangerous job, there will be guards protecting the cargo!",
+    "missingitem": "You are missing something!",
+    "starthackpassDesc": "Find the ATM on your GPS!",
+    "starthackFailDesc": "You have failed the hack!"
+  }
